@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+It starts version control of my files using Git. I need it to review my las entries
