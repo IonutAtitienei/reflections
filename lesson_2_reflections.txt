@@ -12,3 +12,6 @@ In the sitation i want to make an experimental version.
 
 How do the diagrams help you visualize the branch structure?
 By showing different branches and their commits
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is one branch that contains the code from both branches, starting from their parrent. The diagram is used to see the comments of the merged code.
